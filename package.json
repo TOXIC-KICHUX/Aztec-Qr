@@ -2,10 +2,9 @@
   "name": "aztec-wabot",
   "version": "3.0.0",
   "description": "Web qr for every bot",
-  "main": "core.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node core.js"
+    "start": "node index.js"
   },
   "author": "Diegoson",
   "dependencies": {
