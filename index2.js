@@ -43,5 +43,5 @@ function start(file, ...args) {
   });
 }
 
-start('index.js');
+start('main.js');
     
